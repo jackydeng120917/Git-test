@@ -15,5 +15,5 @@ void main(void)
       printf("sum1 = %d  j= %d \n",sum1,j);
    }
    sum  = sum + sum1;
-   printf("sum = %d  sum1= %d \n",sum,sum1);
+   //printf("sum = %d  sum1= %d \n",sum,sum1);
 }
