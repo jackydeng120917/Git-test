@@ -16,4 +16,5 @@ void main(void)
    }
    sum  = sum + sum1;
    printf("sum = %d  sum1= %d \n",sum,sum1);
+   printf("git  test \n");
 }
